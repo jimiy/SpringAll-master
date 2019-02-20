@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-Boot-AOP-Log" />
+        <module name="Spring-Boot-Config" />
+        <module name="Spring-Boot-Ehcache-Cache" />
+        <module name="Spring-Boot-JdbcTemplate" />
+        <module name="Spring-Boot-JdbcTemplate-MultiDataSource" />
+        <module name="Spring-Boot-MyBatis" />
+        <module name="Spring-Boot-MyBatis-MultiDataSource" />
+        <module name="Spring-Boot-Redis-Cache" />
+        <module name="Spring-Boot-Shiro-Authentication" />
+        <module name="Spring-Boot-Shiro-Authorization" />
+        <module name="Spring-Boot-Shiro-RememberMe" />
+        <module name="Spring-Boot-Thymeleaf" />
+        <module name="Start-Spring-Boot" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Spring-Boot-AOP-Log" target="1.7" />
+      <module name="Spring-Boot-Config" target="1.7" />
+      <module name="Spring-Boot-Ehcache-Cache" target="1.7" />
+      <module name="Spring-Boot-JdbcTemplate" target="1.7" />
+      <module name="Spring-Boot-JdbcTemplate-MultiDataSource" target="1.7" />
+      <module name="Spring-Boot-MyBatis" target="1.7" />
+      <module name="Spring-Boot-MyBatis-MultiDataSource" target="1.7" />
+      <module name="Spring-Boot-Redis-Cache" target="1.7" />
+      <module name="Spring-Boot-Shiro-Authentication" target="1.7" />
+      <module name="Spring-Boot-Shiro-Authorization" target="1.7" />
+      <module name="Spring-Boot-Shiro-RememberMe" target="1.7" />
+      <module name="Spring-Boot-Thymeleaf" target="1.7" />
+      <module name="Start-Spring-Boot" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

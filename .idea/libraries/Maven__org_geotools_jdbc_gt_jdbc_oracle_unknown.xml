@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.geotools.jdbc:gt-jdbc-oracle:unknown">
+    <CLASSES>
+      <root url="jar://D:/LocalRepository/org/geotools/jdbc/gt-jdbc-oracle/unknown/gt-jdbc-oracle-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/LocalRepository/org/geotools/jdbc/gt-jdbc-oracle/unknown/gt-jdbc-oracle-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/LocalRepository/org/geotools/jdbc/gt-jdbc-oracle/unknown/gt-jdbc-oracle-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
